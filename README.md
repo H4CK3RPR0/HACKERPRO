@@ -60,7 +60,7 @@ Enter a Number for a specific output:
 
 <br/>
 
-Type `HACKERPRO` or `HACKERPRO` from anywhere in your terminal to open Tool-X.
+Type `HACKERPRO` or `heckerpro` from anywhere in your terminal to open https://github.com/H4CK3RPR0/HACKERPRO.
 
 ------------------------------------------------------------------------
 
