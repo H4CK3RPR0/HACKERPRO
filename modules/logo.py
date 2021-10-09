@@ -12,7 +12,7 @@ class logo:
   def tool_header(self):
     print(f'''\007
 
-{red}
+{yellow}
   _    _               _____   _  __  ______   _____    _____    _____     ____  
  | |  | |     /\      / ____| | |/ / |  ____| |  __ \  |  __ \  |  __ \   / __ \ 
  | |__| |    /  \    | |      | ' /  | |__    | |__) | | |__) | | |__) | | |  | |
@@ -58,9 +58,9 @@ class logo:
   def ins_sc(self):
     self.tool_header()
     print (f'''
-{yellow}    [ + ] {green}Tool-X installed successfully.
-{yellow}    [ + ] {green}To run Tool-X,
-{yellow}    [ + ] {green}Type Tool-X in your terminal.''')
+{yellow}    [ + ] {green}HACKERPRO installed successfully.
+{yellow}    [ + ] {green}To run HACKERPRO,
+{yellow}    [ + ] {green}Type HACKERPRO in your terminal.''')
     self.tool_footer()
 
   @classmethod
@@ -105,7 +105,7 @@ class logo:
 {yellow}       [+] Latest Update :- {green}23/3/2019.\033[1;m
 {yellow}       [+] Tools :- {green}total {total} tools.\033[1;m
 
-{yellow} [+] {green}Tool-x is automatic tool installer.
+{yellow} [+] {green}HACKERPRO is automatic tool installer.
 {yellow} [+] {green}Made for termux and linux based system.
 {red} [+] Note :- Use this tool at your own risk.''')
     self.tool_footer()
@@ -153,7 +153,7 @@ class logo:
   @classmethod
   def updating(self):
     print (f"""{yellow} =============================================
-{green}|______________ Updating Tool-X ______________|
+{green}|______________ Updating HACKERPRO ______________|
  {yellow}============================================={nc}""")
 
   @classmethod
