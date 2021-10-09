@@ -25,7 +25,7 @@ class tool:
             pass
           else:
             os.system(system.sudo+" mkdir "+system.conf_dir+"/HACKERPRO")
-          os.system(system.sudo+" cp -r modules core HACKERPRO.py "+system.conf_dir+"/HACKERPRO"HACKERPRO")
+          os.system(system.sudo+" cp -r modules core HACKERPRO.py "+system.conf_dir+"/HACKERPRO")
           os.system(system.sudo+" cp -r core/HACKERPRO "+system.bin)
           os.system(system.sudo+" cp -r core/HACKERPRO "+system.bin)
           os.system(system.sudo+" chmod +x "+system.bin+"/HACKERPRO")
