@@ -1,0 +1,18 @@
+# Tool Name :- HACKERPRO
+# Author :- H4CK3RPR0
+# Date :- 9/10/2021
+
+if [ -d /data/data/com.termux/files/usr/etc ]; then
+  conf_dir="/data/data/com.termux/files/usr/etc"
+elif [ -d /usr/etc ]; then
+  conf_dir="/usr/etc"
+elif [ -d /etc ]; then
+  conf_dir="/etc"
+fi
+
+if [ -e /usr/lib/sudo ]; then
+	sudo python3 $conf_dir/HACKERPRO/HACKERPRO.py
+else
+	python3 $conf_dir/HACKERPRO/HACKERPRO.py
+fi
+exit
