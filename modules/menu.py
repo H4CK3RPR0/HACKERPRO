@@ -106,7 +106,7 @@ class main:
     while True:
       os.system("clear")
       logo.update()
-      cmd=input(f"{blue}Tool-X{nc}@{blue}space {yellow}$ {nc}")
+      cmd=input(f"{blue}HACKERPRO{nc}@{blue}space {yellow}$ {nc}")
       if cmd=="1":
         system=sys()
         if system.connection():
@@ -149,11 +149,11 @@ class main:
             else:
               os.system("clear")
               logo.update_error()
-              cmd=input(f"{blue}Tool-X{nc}@{blue}space {yellow}$ {nc}")
+              cmd=input(f"{blue}HACKERPRO{nc}@{blue}space {yellow}$ {nc}")
         else:
           os.system("clear")
           logo.nonet()
-          tmp=input(f"{blue}Tool-X{nc}@{blue}space {yellow}$ {nc}")
+          tmp=input(f"{blue}HACKERPRO{nc}@{blue}space {yellow}$ {nc}")
       elif cmd=="0" or cmd=="back":
         self.menu()
         break
