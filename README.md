@@ -1,9 +1,5 @@
 # HACKERPRO
 
-[![Build Status](https://img.shields.io/github/forks/H4CK3RPR0/HACKERPRO/.svg)](https://github.com/H4CK3RPR0/HACKERPRO)
-[![Build Status](https://img.shields.io/github/stars/H4CK3RPR0/HACKERPRO/.svg)](https://github.com/H4CK3RPR0/HACKERPRO)
-[![License](https://img.shields.io/github/license/H4CK3RPR0/HACKERPRO/.svg)](https://github.com/H4CK3RPR0/HACKERPRO)
-
 ------------------------------------------------------------------------
 
 ### Introduction
